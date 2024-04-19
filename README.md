@@ -25,7 +25,7 @@ I'm Mateusz Marko, a second-year student of Information Systems and Automation a
 
 - **Algorithm Design and Analysis**: A repository showcasing my work on designing and analyzing algorithms. This includes practical implementations and theoretical explorations.
   
-  _Repository link: [Algorithm Design and Analysis](#)_
+  _Repository link: [Algorithm Design and Analysis](https://github.com/MrMatier/Algorithm-Design-and-Analysis)_
 
 - **Data Structures in C++**: Implementing fundamental data structures from scratch and optimizing them for performance then testing them.
   
@@ -33,4 +33,4 @@ I'm Mateusz Marko, a second-year student of Information Systems and Automation a
 
 - **Machine Vision with Python**: A collection of machine vision projects, where I've applied image processing techniques using Python libraries.
   
-  _Repository link: [Machine Vision with Python](#)_
+  _Repository link: [Machine Vision with Python](https://github.com/MrMatier/Sygnaly-i-obrazy-cyfrowe)_
