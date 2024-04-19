@@ -13,6 +13,7 @@ I'm Mateusz Marko, a second-year student of Information Systems and Automation a
 
 - **Algorithm Design and Analysis**: Developing efficient algorithms to solve complex problems.
 - **Machine Vision in Python**: Creating programs using Pandas, Scikit-image, Matplotlib, and other tools to process and analyze visual data.
+- **Data Structures**: Implementing and testing different data structures and operations on them.
 
 ## Experience:
 
