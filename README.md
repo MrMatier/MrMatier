@@ -25,7 +25,7 @@ I'm Mateusz Marko, a second-year student of Information Systems and Automation a
 
 - **Algorithm Design and Analysis**: A repository showcasing my work on designing and analyzing algorithms. This includes practical implementations and theoretical explorations.
   
-  _Repository link: [Algorithm Design and Analysis](#)_
+  _Repository link: [https://github.com/MrMatier/Algorithm-Design-and-Analysis](#)_
 
 - **Data Structures in C++**: Implementing fundamental data structures from scratch and optimizing them for performance then testing them.
   
