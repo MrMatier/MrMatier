@@ -33,4 +33,4 @@ I'm Mateusz Marko, a second-year student of Information Systems and Automation a
 
 - **Machine Vision with Python**: A collection of machine vision projects, where I've applied image processing techniques using Python libraries.
   
-  _Repository link: [Machine Vision with Python](https://github.com/MrMatier/Sygnaly-i-obrazy-cyfrowe)_
+  _Repository link: [Machine Vision with Python](https://github.com/MrMatier/Machine-Vision)_
