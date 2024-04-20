@@ -12,14 +12,20 @@ I'm Mateusz Marko, a second-year student of Information Systems and Automation a
 ## I'm currently working on projects related to my university courses:
 
 - **Algorithm Design and Analysis**: Developing efficient algorithms to solve complex problems.
-- **Machine Vision in Python**: Creating programs using Pandas, Scikit-image, Matplotlib, and other tools to process and analyze visual data.
 - **Data Structures**: Implementing and testing different data structures and operations on them.
 
 ## Experience:
 
-- **Data Structures Implementation**: Creating and optimizing various data structures to improve program efficiency.
-- **Algorithm Efficiency Analysis**: Analyzing and enhancing the performance of algorithms in different scenarios.
-- **Machine Vision Applications**: Operations on the image, any kind of rotation, denoising, mosaicking, demosaicking or scaling up.
+As a student at Wroclaw University of Science and Technology, I have already engaged in a variety of courses and pursued personal interests that have enhanced my expertise in several key areas of computer science:
+
+- **Data Structures Implementation**: Creating and optimizing various data structures to improve program efficiency. This includes hands-on experience in implementing trees, graphs, and hash tables as part of my coursework and independent projects.
+
+- **Algorithm Efficiency Analysis**: Analyzing and enhancing the performance of algorithms in different scenarios. My studies have included detailed work on sorting and searching algorithms, complexity analysis, and algorithm optimization for better efficiency.
+
+- **Machine Vision Applications**: Extensive operations on images for various machine vision applications, including rotation, denoising, mosaicking, demosaicking, and scaling. These projects not only honed my programming skills but also deepened my understanding of how theoretical concepts apply in practical scenarios.
+
+These experiences stem from both my academic curriculum and my drive to explore areas of interest within the field of computer science, demonstrating a well-rounded skill set and a proactive approach to learning.
+
 
 ## Projects and Repositories:
 
