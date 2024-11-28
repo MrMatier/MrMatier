@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Mateusz Marko, a second-year student of Information Systems and Automation at Wroclaw University of Technology. I am passionate about various programming disciplines including data structures, algorithm design, and machine vision. Proficient in C, C++, and Python, I am enthusiastic about leveraging these skills to solve complex problems and create innovative solutions.
+I'm Mateusz Marko, a third-year student of Information Systems and Automation at Wroclaw University of Technology. I am passionate about various programming disciplines including data structures, algorithm design, and machine vision. Proficient in C, C++, and Python, I am enthusiastic about leveraging these skills to solve complex problems and create innovative solutions.
 
 ## About Me
 
