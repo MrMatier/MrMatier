@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Mateusz Marko, a third-year student of Information Systems and Automation at Wroclaw University of Technology. I am passionate about various programming disciplines including data structures, algorithm design, and machine vision. Proficient in C, C++, and Python, I am enthusiastic about leveraging these skills to solve complex problems and create innovative solutions.
+I'm Mateusz Marko, a third-year student of Computer Science and Automation at Wroclaw University of Technology. I'm passionate about various programming disciplines, including data structures, algorithm design, computer graphics, and embedded systems. Proficient in C, C++, and Python, I'm eager to leverage these skills to solve complex problems and create innovative solutions.
 
 ## About Me
 
@@ -11,20 +11,34 @@ I'm Mateusz Marko, a third-year student of Information Systems and Automation at
 
 ## I'm currently working on projects related to my university courses:
 
-- **Algorithm Design and Analysis**: Developing efficient algorithms to solve complex problems.
-- **Data Structures**: Implementing and testing different data structures and operations on them.
+- **Computer Graphics GUI**: Designing and implementing window illusion using facetracking and unity.
+- **Databases**: Learning about database design, SQL, and data management systems by creating my own car rental database.
+- **Basics of Neural Networks**: Exploring neural network architectures and their applications.
 
 ## Experience:
 
-As a student at Wroclaw University of Science and Technology, I have already engaged in a variety of courses and pursued personal interests that have enhanced my expertise in several key areas of computer science:
+As a student at Wroclaw University of Science and Technology, I have engaged in a variety of courses and projects that have enhanced my expertise in several key areas of computer science:
 
-- **Data Structures Implementation**: Creating and optimizing various data structures to improve program efficiency. This includes hands-on experience in implementing trees, graphs, and hash tables as part of my coursework and independent projects.
+- **Object-Oriented Programming Paradigms (PPO)**: Mastered the fundamentals of object-oriented programming in C and C++, including concepts like classes, inheritance, polymorphism, encapsulation, and abstraction. Developed modular and maintainable code through various projects.
 
-- **Algorithm Efficiency Analysis**: Analyzing and enhancing the performance of algorithms in different scenarios. My studies have included detailed work on sorting and searching algorithms, complexity analysis, and algorithm optimization for better efficiency.
+- **Operating Systems**: Gained proficiency with Linux, learning to manage directories, write scripts, and utilize different commands. Implemented a C++ program to solve the Dining Philosophers Problem, addressing deadlocks and thread synchronization.
 
-- **Machine Vision Applications**: Extensive operations on images for various machine vision applications, including rotation, denoising, mosaicking, demosaicking, and scaling. These projects not only honed my programming skills but also deepened my understanding of how theoretical concepts apply in practical scenarios.
+- **Digital and Microprocessor Techniques**: Acquired hands-on experience with microcontroller programming using the EduTar board with an Arduino module. Programmed AVR microcontrollers, manipulated hardware registers, performed bitwise operations, and worked with input/output devices like buzzers, buttons, and displays. Integrated sensors, utilized interrupts and timers, and handled communication through UART.
 
-These experiences stem from both my academic curriculum and my drive to explore areas of interest within the field of computer science, demonstrating a well-rounded skill set and a proactive approach to learning.
+- **Computer Networks (CCNA v7)**: Completed the Cisco Certified Network Associate curriculum, earning a certification. Designed and configured network topologies, assigned IP addresses, and set up routers and switches. Gained a solid understanding of networking protocols, device configuration, and network security fundamentals.
+
+- **Data Structures**: Implemented fundamental data structures in C++, including arrays, singly and doubly linked lists, heaps, priority queues, binary search trees, and hash tables using techniques like cuckoo hashing and separate chaining. Focused on optimization and efficiency.
+
+- **Algorithm Design and Analysis**: Studied various sorting algorithms and graph algorithms like Dijkstra's algorithm for shortest paths. Developed a tic-tac-toe game featuring an AI opponent using the Minimax algorithm and a basic GUI, enhancing understanding of artificial intelligence concepts.
+
+- **Basics of Telecommunications**: Explored principles of signal transmission, modulation techniques, and fundamentals of telecommunication systems, gaining insights into data transmission over various communication channels.
+
+- **Machine Vision Applications**: Performed extensive operations on images for machine vision applications, including rotation, denoising, mosaicking, demosaicking, and scaling, applying theoretical concepts in practical scenarios.
+
+- **Quantum Computing with IBM Qiskit**: Participated in an IBM course on quantum computing during high school. Learned about qubits, superposition, entanglement, and quantum gates. Developed simple quantum circuits and understood the basics of quantum algorithms.
+
+These experiences, stemming from both my academic curriculum and personal interests, demonstrate a well-rounded skill set and a proactive approach to learning within the field of computer science.
+
 
 
 ## Projects and Repositories:
@@ -40,3 +54,7 @@ These experiences stem from both my academic curriculum and my drive to explore 
 - **Machine Vision with Python**: A collection of machine vision projects, where I've applied image processing techniques using Python libraries.
   
   _Repository link: [Machine Vision with Python](https://github.com/MrMatier/Machine-Vision)_
+
+- **Computer Graphics Project**: Underwater scenery in unity with face tracking.
+  
+_Repository link: [Machine Vision with Python](https://github.com/MrMatier/)_
