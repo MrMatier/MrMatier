@@ -37,7 +37,7 @@ As a student at Wroclaw University of Science and Technology, I have engaged in 
 
 - **Automation and Robotics**: Gained experience in automation through courses like Basics of Automation and Robotics, Input and Output Devices, Programmable Controllers and Regulators, Modeling and Simulation, and Industrial Information Networks. Programmed various PLCs from Siemens and Mitsubishi, and worked with industrial communication protocols such as PROFINET, PROFIBUS, and Modbus, enhancing my skills in industrial automation systems.
 
-- **Quantum Computing with IBM Qiskit**: Participated in an IBM course on quantum computing during high school. Learned about qubits, superposition, entanglement, and quantum gates. Developed simple quantum circuits and understood the basics of quantum algorithms.
+- **Quantum Computing with IBM Qiskit**: Participated in an IBM course on quantum computing during high school. Learned about qubits, superposition, entanglement, and quantum gates. Developed some simple quantum programs using Qiskit on IBM cloud and understood the basics of some quantum algorithms.
 
 These experiences, stemming from both my academic curriculum and personal interests, demonstrate a well-rounded skill set and a proactive approach to learning within the field of computer science.
 
