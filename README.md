@@ -57,6 +57,6 @@ These experiences, stemming from both my academic curriculum and personal intere
   
   _Repository link: [Machine Vision with Python](https://github.com/MrMatier/Machine-Vision)_
 
-- **Computer Graphics Project**: Underwater scenery in unity with face tracking.
+- **Computer Graphics Project**: Underwater game scenery in unity with face tracking using Python mediapipe library.
   
   _Repository link: [Machine Vision with Python](https://github.com/MrMatier/)_
