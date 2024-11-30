@@ -19,25 +19,25 @@ I'm Mateusz Marko, a third-year student of Computer Science and Automation at Wr
 
 As a student at Wroclaw University of Science and Technology, I have engaged in a variety of courses and projects that have enhanced my expertise in several key areas of computer science:
 
-- **Object-Oriented Programming Paradigms (PPO)**: Mastered the fundamentals of object-oriented programming in C and C++, including concepts like classes, inheritance, polymorphism, encapsulation, and abstraction. Developed modular and maintainable code through various projects.
+- **Machine Vision Applications**: Performed extensive operations on images for machine vision applications, including rotation, denoising, mosaicking, demosaicking, and scaling, applying theoretical concepts in practical scenarios.
 
-- **Operating Systems**: Gained proficiency with Linux, learning to manage directories, write scripts, and utilize different commands. Implemented a C++ program to solve the Dining Philosophers Problem, addressing deadlocks and thread synchronization.
-
-- **Digital and Microprocessor Techniques**: Acquired hands-on experience with microcontroller programming using the EduTar board with an Arduino module. Programmed AVR microcontrollers, manipulated hardware registers, performed bitwise operations, and worked with input/output devices like buzzers, buttons, and displays. Integrated sensors, utilized interrupts and timers, and handled communication through UART.
-
-- **Computer Networks (CCNA v7)**: Completed the Cisco Certified Network Associate curriculum, earning a certification. Designed and configured network topologies, assigned IP addresses, and set up routers and switches. Gained a solid understanding of networking protocols, device configuration, and network security fundamentals.
+- **Quantum Computing with IBM Qiskit**: Participated in an IBM course on quantum computing during high school. Learned about qubits, superposition, entanglement, and quantum gates. Developed some simple quantum programs using Qiskit on IBM cloud and understood the basics of some quantum algorithms.
 
 - **Data Structures**: Implemented fundamental data structures in C++, including arrays, singly and doubly linked lists, heaps, priority queues, binary search trees, and hash tables using techniques like cuckoo hashing and separate chaining. Focused on optimization and efficiency.
 
 - **Algorithm Design and Analysis**: Studied various sorting algorithms and graph algorithms like Dijkstra's algorithm for shortest paths. Developed a tic-tac-toe game featuring an AI opponent using the Minimax algorithm and a basic GUI, enhancing understanding of artificial intelligence concepts.
 
+- **Digital and Microprocessor Techniques**: Acquired hands-on experience with microcontroller programming using the EduTar board with an Arduino module. Programmed AVR microcontrollers, manipulated hardware registers, performed bitwise operations, and worked with input/output devices like buzzers, buttons, and displays. Integrated sensors, utilized interrupts and timers, and handled communication through UART.
+
+- **Computer Networks (CCNA v7)**: Completed the Cisco Certified Network Associate curriculum, earning a certification. Designed and configured network topologies, assigned IP addresses, and set up routers and switches. Gained a solid understanding of networking protocols, device configuration, and network security fundamentals.
+
+- **Object-Oriented Programming Paradigms (PPO)**: Mastered the fundamentals of object-oriented programming in C and C++, including concepts like classes, inheritance, polymorphism, encapsulation, and abstraction. Developed modular and maintainable code through various projects.
+
+- **Operating Systems**: Gained proficiency with Linux, learning to manage directories, write scripts, and utilize different commands. Implemented a C++ program to solve the Dining Philosophers Problem, addressing deadlocks and thread synchronization.
+
 - **Basics of Telecommunications**: Explored principles of signal transmission, modulation techniques, and fundamentals of telecommunication systems, gaining insights into data transmission over various communication channels.
 
-- **Machine Vision Applications**: Performed extensive operations on images for machine vision applications, including rotation, denoising, mosaicking, demosaicking, and scaling, applying theoretical concepts in practical scenarios.
-
 - **Automation and Robotics**: Gained experience in automation through courses like Basics of Automation and Robotics, Input and Output Devices, Programmable Controllers and Regulators, Modeling and Simulation, and Industrial Information Networks. Programmed various PLCs from Siemens and Mitsubishi, and worked with industrial communication protocols such as PROFINET, PROFIBUS, and Modbus, enhancing my skills in industrial automation systems.
-
-- **Quantum Computing with IBM Qiskit**: Participated in an IBM course on quantum computing during high school. Learned about qubits, superposition, entanglement, and quantum gates. Developed some simple quantum programs using Qiskit on IBM cloud and understood the basics of some quantum algorithms.
 
 These experiences, stemming from both my academic curriculum and personal interests, demonstrate a well-rounded skill set and a proactive approach to learning within the field of computer science.
 
