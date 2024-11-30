@@ -60,3 +60,8 @@ These experiences, stemming from both my academic curriculum and personal intere
 - **Computer Graphics Project**: Underwater game scenery in unity with face tracking using Python mediapipe library.
   
   _Repository link: [GUI Underwater Window](https://github.com/MrMatier/Computer-Graphics-GUI)_
+
+- **Digital and Microprocessor Techniques**: Implementing microcontroller programming and digital interfacing using C++ in Arduino IDE, focusing on hardware components and real-world applications.
+
+  _Repository link: [GUI Underwater Window](https://github.com/MrMatier/Digital-and-Microprocessor-Techniques)_
+
