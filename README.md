@@ -63,5 +63,5 @@ These experiences, stemming from both my academic curriculum and personal intere
 
 - **Digital and Microprocessor Techniques**: Implementing microcontroller programming and digital interfacing using C++ in Arduino IDE, focusing on hardware components and real-world applications.
 
-  _Repository link: [GUI Underwater Window](https://github.com/MrMatier/Digital-and-Microprocessor-Techniques)_
+  _Repository link: [Digital and Microprocessor Techniques](https://github.com/MrMatier/Digital-and-Microprocessor-Techniques)_
 
