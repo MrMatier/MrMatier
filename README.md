@@ -13,12 +13,17 @@ I work mainly with **C, C++, Python, SQL, and Unity**, and I enjoy projects rela
 - 👯 I'm looking to work on any projects that push the boundaries of technology.
 - 💬 Feel free to ask me about anything.
 
-## I'm currently working on projects related to my university courses:
+## Current Work
 
-- **Computer Graphics GUI**: Designing and implementing window illusion using facetracking and unity.
-- **Databases**: Learning about database design, SQL, and data management systems by creating my own car rental database.
-- **Basics of Neural Networks**: Exploring neural network architectures and their applications.
+My recent work is mainly focused on university and technical projects related to:
 
+- **Machine Learning / AI** – working on decision tree methods, neural network topics, and other AI-related coursework, including my current **UMA project**
+- **3D Graphics and Interactive Systems** – developing skills in **computer graphics, 3D programming, and interactive environments**, including technical work related to rendering and graphics programming
+- **GPU and Parallel Computing** – exploring **CUDA** and GPU-oriented programming through academic project work
+- **Big Data and Cloud Tools** – working with technologies such as **Terraform, BigQuery, Dataproc, Airflow, and GitHub Actions** in Big Data coursework
+- **Agent Systems / Applied AI** – studying AI agents and practical intelligent systems, including team work related to **Agent Systems**
+- **Databases / SQL** – designing and building database projects, with focus on schema design, query logic, and data management
+  
 ## Experience
 
 My experience comes from university projects, technical coursework, team projects, and personal learning. Over time, I have built a solid base in software development, AI-related topics, systems programming, and automation.
