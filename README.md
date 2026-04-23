@@ -1,17 +1,10 @@
 # Hi there 👋
 
-I'm Mateusz Marko, a Computer Science student at **AGH University of Krakow** and **Warsaw University of Technology**, focused on **artificial intelligence, software development, and intelligent systems**.
+I'm Mateusz Marko, a Computer Science and Automation engineer and a current Master's student with a strong interest in artificial intelligence, software development, and intelligent systems.
 
-My background combines computer science with automation, practical engineering projects, and international academic experience. During my studies, I took part in an exchange in **Japan at Shibaura Institute of Technology in Tokyo**, where I also spent additional time in a project laboratory environment. That experience strengthened my interest in AI, pattern recognition, and building practical technical solutions.
+My background combines computer science with automation, practical engineering projects, and international academic experience. During my studies, I took part in an exchange program in **Japan at Shibaura Institute of Technology in Tokyo**, where I also spent additional time in a project laboratory environment. That experience strengthened my interest in AI, pattern recognition, and building practical technical solutions.
 
 I work mainly with **C, C++, Python, SQL, and Unity**, and I enjoy projects related to machine learning, computer graphics, intelligent systems, and software development. I like learning through real implementation, teamwork, and solving technical problems in a practical way.
-
-## About Me
-
-- 🔭 I'm currently working on enhancing my skills in general computer science, robotics and automation.
-- 🌱 I'm continuously learning and improving my expertise in programming languages by projects.
-- 👯 I'm looking to work on any projects that push the boundaries of technology.
-- 💬 Feel free to ask me about anything.
 
 ## Current Work
 
@@ -61,6 +54,18 @@ My experience comes from university projects, technical coursework, team project
 
 ## Selected Finished Solo Projects
 
+- **Computer Graphics GUI**  
+  A Unity-based graphics project focused on an interactive underwater scene combined with face tracking using Python and MediaPipe.  
+  _Repository: [GUI Underwater Window](https://github.com/MrMatier/Computer-Graphics-GUI)_
+
+- **Digital and Microprocessor Techniques**  
+  Practical low-level programming work using C++ and Arduino IDE, focused on microcontrollers, hardware interaction, and digital interfacing.  
+  _Repository: [Digital and Microprocessor Techniques](https://github.com/MrMatier/Digital-and-Microprocessor-Techniques)_
+
+- **Machine Vision with Python**  
+  A set of image processing and machine vision exercises, including denoising, scaling, rotation, mosaicking, and demosaicking.  
+  _Repository: [Machine Vision with Python](https://github.com/MrMatier/Machine-Vision)_
+  
 - **Algorithm Design and Analysis**  
   A collection of algorithmic exercises and implementations focused on problem solving, algorithm design, and core computational concepts.  
   _Repository: [Algorithm Design and Analysis](https://github.com/MrMatier/Algorithm-Design-and-Analysis)_
@@ -69,16 +74,10 @@ My experience comes from university projects, technical coursework, team project
   Implementations of fundamental data structures written from scratch in C++, with focus on correctness, efficiency, and testing.  
   _Repository: [Data Structures in C++](https://github.com/MrMatier/Data-Structures)_
 
-- **Machine Vision with Python**  
-  A set of image processing and machine vision exercises, including denoising, scaling, rotation, mosaicking, and demosaicking.  
-  _Repository: [Machine Vision with Python](https://github.com/MrMatier/Machine-Vision)_
 
-- **Computer Graphics GUI**  
-  A Unity-based graphics project focused on an interactive underwater scene combined with face tracking using Python and MediaPipe.  
-  _Repository: [GUI Underwater Window](https://github.com/MrMatier/Computer-Graphics-GUI)_
 
-- **Digital and Microprocessor Techniques**  
-  Practical low-level programming work using C++ and Arduino IDE, focused on microcontrollers, hardware interaction, and digital interfacing.  
-  _Repository: [Digital and Microprocessor Techniques](https://github.com/MrMatier/Digital-and-Microprocessor-Techniques)_
+
+
+
 
 
