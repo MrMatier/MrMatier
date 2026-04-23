@@ -1,6 +1,10 @@
 # Hi there 👋
 
-I'm Mateusz Marko, a third-year student of Computer Science and Automation at Wroclaw University of Technology. I'm passionate about various programming disciplines, including data structures, algorithms, computer graphics, and embedded systems. Proficient in C, C++, and Python, I'm eager to leverage these skills to solve complex problems and create innovative solutions.
+I'm Mateusz Marko, a Computer Science student at **AGH University of Krakow** and **Warsaw University of Technology**, focused on **artificial intelligence, software development, and intelligent systems**.
+
+My background combines computer science with automation, practical engineering projects, and international academic experience. During my studies, I took part in an exchange in **Japan at Shibaura Institute of Technology in Tokyo**, where I also spent additional time in a project laboratory environment. That experience strengthened my interest in AI, pattern recognition, and building practical technical solutions.
+
+I work mainly with **C, C++, Python, SQL, and Unity**, and I enjoy projects related to machine learning, computer graphics, intelligent systems, and software development. I like learning through real implementation, teamwork, and solving technical problems in a practical way.
 
 ## About Me
 
