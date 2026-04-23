@@ -19,32 +19,39 @@ I work mainly with **C, C++, Python, SQL, and Unity**, and I enjoy projects rela
 - **Databases**: Learning about database design, SQL, and data management systems by creating my own car rental database.
 - **Basics of Neural Networks**: Exploring neural network architectures and their applications.
 
-## Experience:
+## Experience
 
-As a student at Wroclaw University of Science and Technology, I have engaged in a variety of courses and projects that have enhanced my expertise in several key areas of computer science:
+My experience comes from university projects, technical coursework, team projects, and personal learning. Over time, I have built a solid base in software development, AI-related topics, systems programming, and automation.
 
-- **Machine Vision Applications**: Performed extensive operations on images for machine vision applications, including rotation, denoising, mosaicking, demosaicking, and scaling, applying theoretical concepts in practical scenarios.
+- **International academic experience / Japan**  
+  Took part in an exchange at **Shibaura Institute of Technology in Tokyo**, followed by additional time in a **project laboratory environment**. Worked on topics related to **kanji character recognition**, which developed my interest in artificial intelligence, pattern recognition, and applied research.
 
-- **Quantum Computing with IBM Qiskit**: Participated in an IBM course on quantum computing during high school. Learned about qubits, superposition, entanglement, and quantum gates. Developed some simple quantum programs using Qiskit on IBM cloud and understood the basics of some quantum algorithms.
+- **Team leadership / industry collaboration**  
+  Led a student team in a project carried out in cooperation with **Volvo** and **Wroclaw University of Science and Technology**. In practice, I was responsible for most of the implementation and a large part of the technical work, which gave me valuable experience in ownership, coordination, and project delivery.
 
-- **Data Structures**: Implemented fundamental data structures in C++, including arrays, singly and doubly linked lists, heaps, priority queues, binary search trees, and hash tables using techniques like cuckoo hashing and separate chaining. Focused on optimization and efficiency.
+- **Machine vision and image processing**  
+  Worked on image processing tasks in Python, including operations such as rotation, denoising, mosaicking, demosaicking, and scaling. Applied theoretical concepts in practical computer vision assignments.
 
-- **Algorithm Design and Analysis**: Studied various sorting algorithms and graph algorithms like Dijkstra's algorithm for shortest paths. Developed a tic-tac-toe game featuring an AI opponent using the Minimax algorithm and a basic GUI, enhancing understanding of artificial intelligence concepts.
+- **Algorithms and data structures**  
+  Implemented core data structures in **C++**, including linked lists, heaps, priority queues, binary search trees, and hash tables. Also studied sorting and graph algorithms and built smaller algorithmic projects, including a tic-tac-toe game with a **Minimax-based AI opponent**.
 
-- **Digital and Microprocessor Techniques**: Acquired hands-on experience with microcontroller programming using the EduTar board with an Arduino module. Programmed AVR microcontrollers, manipulated hardware registers, performed bitwise operations, and worked with input/output devices like buzzers, buttons, and displays. Integrated sensors, utilized interrupts and timers, and handled communication through UART.
+- **Object-oriented and low-level programming**  
+  Built a strong foundation in **C and C++**, including object-oriented programming, modular code design, and system-level thinking through academic and practical projects.
 
-- **Computer Networks (CCNA v7)**: Completed the Cisco Certified Network Associate curriculum, earning a certification. Designed and configured network topologies, assigned IP addresses, and set up routers and switches. Gained a solid understanding of networking protocols, device configuration, and network security fundamentals.
+- **Embedded systems and microcontrollers**  
+  Worked with **AVR microcontrollers**, registers, timers, interrupts, UART communication, and basic hardware components such as displays, buttons, buzzers, and sensors. Gained hands-on experience with low-level programming and hardware interaction.
 
-- **Object-Oriented Programming Paradigms (PPO)**: Mastered the fundamentals of object-oriented programming in C and C++, including concepts like classes, inheritance, polymorphism, encapsulation, and abstraction. Developed modular and maintainable code through various projects.
+- **Operating systems and Linux**  
+  Developed practical experience with **Linux**, shell commands, scripting, and concurrency-related problems. Implemented a C++ solution to the **Dining Philosophers Problem**, focusing on synchronization and deadlock-related issues.
 
-- **Operating Systems**: Gained proficiency with Linux, learning to manage directories, write scripts, and utilize different commands. Implemented a C++ program to solve the Dining Philosophers Problem, addressing deadlocks and thread synchronization.
+- **Networks and system fundamentals**  
+  Completed **CCNA v7**, gaining a solid foundation in computer networks, routing, switching, IP addressing, basic security, and device configuration.
 
-- **Basics of Telecommunications**: Explored principles of signal transmission, modulation techniques, and fundamentals of telecommunication systems, gaining insights into data transmission over various communication channels.
+- **Automation and industrial systems**  
+  Worked with PLC-related topics in automation courses, including **Siemens** and **Mitsubishi** controllers, as well as industrial communication protocols such as **PROFINET, PROFIBUS, and Modbus**.
 
-- **Automation and Robotics**: Gained experience in automation through courses like Basics of Automation and Robotics, Input and Output Devices, Programmable Controllers and Regulators, Modeling and Simulation, and Industrial Information Networks. Programmed various PLCs from Siemens and Mitsubishi, and worked with industrial communication protocols such as PROFINET, PROFIBUS, and Modbus, enhancing my skills in industrial automation systems.
-
-These experiences, stemming from both my academic curriculum and personal interests, demonstrate a well-rounded skill set and a proactive approach to learning within the field of computer science.
-
+- **Additional technical interests**  
+  Explored areas such as databases, computer graphics, AI in Unity, and basic quantum computing with **IBM Qiskit**, building a broad technical background and a practical approach to learning.
 
 
 ## Projects and Repositories:
