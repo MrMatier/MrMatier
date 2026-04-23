@@ -59,25 +59,26 @@ My experience comes from university projects, technical coursework, team project
   Explored areas such as databases, computer graphics, AI in Unity, and basic quantum computing with **IBM Qiskit**, building a broad technical background and a practical approach to learning.
 
 
-## Projects and Repositories:
+## Selected Finished Solo Projects
 
-- **Algorithm Design and Analysis**: A repository showcasing my work on designing and analyzing algorithms. This includes practical implementations and theoretical explorations.
-  
-  _Repository link: [Algorithm Design and Analysis](https://github.com/MrMatier/Algorithm-Design-and-Analysis)_
+- **Algorithm Design and Analysis**  
+  A collection of algorithmic exercises and implementations focused on problem solving, algorithm design, and core computational concepts.  
+  _Repository: [Algorithm Design and Analysis](https://github.com/MrMatier/Algorithm-Design-and-Analysis)_
 
-- **Data Structures in C++**: Implementing fundamental data structures from scratch and optimizing them for performance then testing them.
-  
-  _Repository link: [Data Structures in C++](https://github.com/MrMatier/Data-Structures)_
+- **Data Structures in C++**  
+  Implementations of fundamental data structures written from scratch in C++, with focus on correctness, efficiency, and testing.  
+  _Repository: [Data Structures in C++](https://github.com/MrMatier/Data-Structures)_
 
-- **Machine Vision with Python**: A collection of machine vision projects, where I've applied image processing techniques using Python libraries.
-  
-  _Repository link: [Machine Vision with Python](https://github.com/MrMatier/Machine-Vision)_
+- **Machine Vision with Python**  
+  A set of image processing and machine vision exercises, including denoising, scaling, rotation, mosaicking, and demosaicking.  
+  _Repository: [Machine Vision with Python](https://github.com/MrMatier/Machine-Vision)_
 
-- **Computer Graphics Project**: Underwater game scenery in unity with face tracking using Python mediapipe library.
-  
-  _Repository link: [GUI Underwater Window](https://github.com/MrMatier/Computer-Graphics-GUI)_
+- **Computer Graphics GUI**  
+  A Unity-based graphics project focused on an interactive underwater scene combined with face tracking using Python and MediaPipe.  
+  _Repository: [GUI Underwater Window](https://github.com/MrMatier/Computer-Graphics-GUI)_
 
-- **Digital and Microprocessor Techniques**: Implementing microcontroller programming and digital interfacing using C++ in Arduino IDE, focusing on hardware components and real-world applications.
+- **Digital and Microprocessor Techniques**  
+  Practical low-level programming work using C++ and Arduino IDE, focused on microcontrollers, hardware interaction, and digital interfacing.  
+  _Repository: [Digital and Microprocessor Techniques](https://github.com/MrMatier/Digital-and-Microprocessor-Techniques)_
 
-  _Repository link: [Digital and Microprocessor Techniques](https://github.com/MrMatier/Digital-and-Microprocessor-Techniques)_
 
